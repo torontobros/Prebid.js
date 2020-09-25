@@ -27,7 +27,7 @@ The `districtmDmxAdapter` module allows publishers to include DMX Exchange deman
 | --- | --- | --- | ---
 | `dmxid` | Mandatory | Integer | Unique identifier of the placement, dmxid can be obtained in the district m Boost platform.
 | `memberid` | Mandatory | Integer | Unique identifier for your account, memberid can be obtained in the district m Boost platform.
-| `floor` | Optional | float | Most placement can have floor set in our platform, but this can now be set on the request too.
+| `bidfloor` | Optional | float | Most placement can have floor set in our platform, but this can now be set on the request too.
 
 # Ad Unit Configuration Example
 
